@@ -1,0 +1,9 @@
+{
+  "name": "reloader",
+  "version": "1.0.0",
+  "description": "Reload page when save code using chrome extension",
+  "main": "app.js",
+  "repository": "git@github.com:/reloader.git",
+  "author": "Huong Nguyen <shovity@gmail.com>",
+  "license": "MIT"
+}
